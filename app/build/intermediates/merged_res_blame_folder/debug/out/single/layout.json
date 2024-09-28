@@ -1,0 +1,78 @@
+[
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_setting.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_update_email.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_update_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_user_profile.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_receive.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_food_map.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_food_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_history.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_update_profile.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_landing_page.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_forgot_password.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_splash_screen.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_about.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_about.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_upload_profile_pic.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_upload_profile_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_delete_profile.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_delete_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_sign_up.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\main_item.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\main_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_change_password.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "com.example.NourishConnect.app-mergeDebugResources-40:/layout/activity_donate.xml",
+        "source": "com.example.NourishConnect.app-main-43:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-mergeDebugResources-40:\\layout\\activity_donate.xml",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_donate.xml"
+    }
+]

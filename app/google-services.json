@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "145956529200",
+    "project_id": "nourish-f0afe",
+    "storage_bucket": "nourish-f0afe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:145956529200:android:ece5e41e2fb21623cbb9f5",
+        "android_client_info": {
+          "package_name": "com.example.NourishConnect"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWN0h1yBYj1O9bm1ojcINkKLIDdg3CGEY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,414 @@
+[
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_recieve.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\recieve.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_map.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\map.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_splash_screen.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_splash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_baseline_room_service_24.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\baseline_room_service_24.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_round_background.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\round_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_logout.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\logout.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_instagram.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\instagram.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_blinker_regular.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\blinker_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_slide_in_right.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\slide_in_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg3.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg3.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_user_profile.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_user_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_main_item.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\main_item.xml"
+    },
+    {
+        "merged": "com.example.NourishConnect.app-merged_res-41:/layout_activity_donate.xml.flat",
+        "source": "com.example.NourishConnect.app-main-43:/layout/activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_add.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\add.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_cardview_bg.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\cardview_bg.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_comfort.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\comfort.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_delete_profile.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\delete_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_slide_out_right.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\slide_out_right.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_top_animation.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\top_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_upload_profile_pic.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_upload_profile_pic.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_abel.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\abel.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_opensans_regular.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\opensans_regular.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_triangle.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\triangle.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_blinker_light.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\blinker_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_nunitosans_bold.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\nunitosans_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg1.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg1.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_slide_in_left.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\slide_in_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_rcv1.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\rcv1.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_background_with_triangle.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\background_with_triangle.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_history.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\history.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_no_profile_pic.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\no_profile_pic.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_three.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\three.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_update_profile.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\update_profile.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_framereceiver_two.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\framereceiver_two.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg4.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg4.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_facebook.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\facebook.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_donate.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\donate.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_rcv.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\rcv.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_forgot_password.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_forgot_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_setting.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_setting.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_donate.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_donate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_inapp_logo.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\inapp_logo.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_landing_page.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_landing_page.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_refresh.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_main.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_update_profile.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_update_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_mypins.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\mypins.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_sign_up.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_sign_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_delete_profile.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_delete_profile.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_reset_password.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\reset_password.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_twitter.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\twitter.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_blinker_bold.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\blinker_bold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_user.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\user.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_nunitosans_semibold.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\nunitosans_semibold.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_setting.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\setting.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_change_password.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_change_password.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg6.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg6.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_marker_donator_style.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\marker_donator_style.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_about.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\about.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_bangers.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\bangers.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_six.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\six.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_delete_profile_two.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\delete_profile_two.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_lgout.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\lgout.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_opensans.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\opensans.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_exo.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\exo.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_receive.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_receive.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg2.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg2.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_opensans_light.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\opensans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_history.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_history.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_version.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\version.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_contact.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\contact.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_loggout.png.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\loggout.png"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_food_map.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_food_map.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_button_bg5.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\button_bg5.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\raw_map_style.json.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\raw\\map_style.json"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_update_email.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_update_email.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\font_nunitosans_light.ttf.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\font\\nunitosans_light.ttf"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_slide_out_left.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\slide_out_left.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\anim_bottom_animation.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\anim\\bottom_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\color_hint_color.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\color\\hint_color.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\drawable_bg_layout_with_stroke.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\drawable\\bg_layout_with_stroke.xml"
+    },
+    {
+        "merged": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-merged_res-41:\\layout_activity_about.xml.flat",
+        "source": "C:\\Users\\ED\\.gradle\\daemon\\8.2\\com.example.NourishConnect.app-main-43:\\layout\\activity_about.xml"
+    }
+]
